@@ -19,3 +19,6 @@ Ahora lo subimos a GitHub
 4. Tambien numerada
 5. numerada
 6. Tambien numerada
+
+1. numerada
+2. Tambien numerada
